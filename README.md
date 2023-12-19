@@ -11,3 +11,5 @@ Nessas aulas utilizamos a IDE Spring Tool Suite.
     - aula03: exemplos de laços de repetição
     - aula04: exemplos de vetor e matriz
     - aula05: exemplos de List, Set, Queue e Stack
+    - aula06: exemplo de método
+    - aula07: exemplos de exceptions
